@@ -30,6 +30,13 @@ time.sleep(2)
 print("ИДИ И ОТДОХНИ")
 time.sleep(2)
 print("Я БЫЛ БЫ ОЧЕНЬ РАД ЕСЛИ БЫ ТЫ ОТДОХНУЛ...")
+time.sleep(2)
+print("ИНОГДА ЛЮДЯМ НАДО ОТДЫХАТЬ, ДА?")
+time.sleep(2)
+print("ПОЭТОМУ...")
+time.sleep(2)
+print("ОТДОХНИ ПОЖАЛУЙСТА, ЛАДНО?")
+time.sleep(2)
 
 
 
