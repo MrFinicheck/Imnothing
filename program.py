@@ -21,6 +21,15 @@ print("...")
 time.sleep(5)
 print("...")
 time.sleep(2)
+print("ТЫ ВСЁ ЕЩЁ ЗДЕСЬ?")
+time.sleep(2)
+print("ТЫ НАВЕРНОЕ ОЧЕНЬ УСТАЛ")
+time.sleep(2)
+print("ИЗВИНИ ЧТО ЗАНИМАЮ ВРЕМЯ СВОЕЙ ПРОГРАММОЙ")
+time.sleep(2)
+print("ИДИ И ОТДОХНИ")
+time.sleep(2)
+print("Я БЫЛ БЫ ОЧЕНЬ РАД ЕСЛИ БЫ ТЫ ОТДОХНУЛ...")
 
 
 
