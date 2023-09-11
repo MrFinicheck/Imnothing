@@ -42,5 +42,11 @@ time.sleep(2)
 print("ЕСЛИ ЗАХОЧЕШЬ КОНЕЧНО")
 time.sleep(2)
 print("Я БЫ ХОТЕЛ УВИДЕТЬ ТЕБЯ СНОВА...")
+time.sleep(2)
+print("...")
+time.sleep(5)
+print("...")
+time.sleep(5)
+print("...")
 
 
