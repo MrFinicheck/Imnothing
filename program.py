@@ -11,7 +11,16 @@ time.sleep(2)
 print("И ДАЙ МНЕ КОД ОТ АВТОМТА ПО ОСНОВАМ ПРОГРАММНОЙ ИНЖЕНЕРИИ")
 code = input()
 time.sleep(2)
-
+print("ОХ КАК МИЛО С ТВОЕЙ СТОРОНЫ")
+time.sleep(2)
+print("ОБЕЩАЮ Я НИКОМУ НЕ СКАЖУ")
+time.sleep(2)
+print("С ТОБОЙ ПРИЯТНО ИМЕТЬ ДЕЛО ;)")
+time.sleep(5)
+print("...")
+time.sleep(5)
+print("...")
+time.sleep(2)
 
 
 
